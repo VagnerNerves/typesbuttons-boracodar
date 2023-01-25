@@ -6,7 +6,11 @@ Developed the project of types of buttons, which shows the types and their chang
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+
+
+https://user-images.githubusercontent.com/40831841/214468019-23e3855e-6558-4108-999d-08c98572add5.mp4
+
+
 
 ## 🎨 Layout
 
